@@ -3,6 +3,11 @@
 // found in the LICENSE file.
 
 exports.addJasmineHelpers = function(jasmineInterface) {
+
+  if (!jasmineInterface) {
+    jasmineInterface = window;
+  }
+
   jasmineInterface.isOnCordova = function() {
     return typeof window.cordova !== 'undefined';
   };
