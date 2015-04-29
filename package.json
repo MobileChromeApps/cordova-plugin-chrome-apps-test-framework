@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-chrome-apps-test-framework",
+  "version": "0.1.0-dev",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-chrome-apps-test-framework",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-test-framework.git"
+  },
+  "keywords": [
+    "chrome",
+    "test",
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-test-framework/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-test-framework"
+}
