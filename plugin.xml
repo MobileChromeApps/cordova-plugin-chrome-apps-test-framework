@@ -10,6 +10,8 @@
 
   <name>Chrome Apps Test Framework</name>
   <keywords>chrome,test</keywords>
+  <repo>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-test-framework.git</repo>
+  <issue>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-test-framework/issues</issue>
 
   <js-module src="www/app_helpers.js" name="app_helpers" />
   <js-module src="www/jasmine_helpers.js" name="jasmine_helpers" />
